@@ -1,4 +1,4 @@
-# Project Title «Determining the Most Profitable Oil Production Region»
+# Determining the Most Profitable Oil Production Region
 
 Industry – Mining company
 
